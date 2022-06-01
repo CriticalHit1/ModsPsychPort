@@ -1,0 +1,31 @@
+{
+	"storyName": "Taste For Blood (Port)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"taste for blood",
+			"sawbutt",
+			[
+				58,
+				38,
+				156
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "taste-for-blood"
+}

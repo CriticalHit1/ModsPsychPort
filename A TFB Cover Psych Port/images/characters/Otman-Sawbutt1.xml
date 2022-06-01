@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Otman-Sawbutt.png"><SubTexture name="sawman down0000" x="0" y="0" width="535" height="581" frameX="0" frameY="0" frameWidth="535" frameHeight="581" />
+<SubTexture name="sawman idle0000" x="535" y="0" width="556" height="638" frameX="0" frameY="0" frameWidth="556" frameHeight="638" />
+<SubTexture name="sawman idle0001" x="0" y="638" width="531" height="638" frameX="0" frameY="0" frameWidth="531" frameHeight="638" />
+<SubTexture name="sawman idle0002" x="531" y="638" width="546" height="640" frameX="0" frameY="0" frameWidth="546" frameHeight="640" />
+<SubTexture name="sawman idle0003" x="0" y="1278" width="497" height="640" frameX="0" frameY="0" frameWidth="497" frameHeight="640" />
+<SubTexture name="sawman left0000" x="497" y="1278" width="596" height="644" frameX="0" frameY="0" frameWidth="596" frameHeight="644" />
+<SubTexture name="sawman right0000" x="0" y="1922" width="504" height="652" frameX="0" frameY="0" frameWidth="504" frameHeight="652" />
+<SubTexture name="sawman up0000" x="504" y="1922" width="606" height="666" frameX="0" frameY="0" frameWidth="606" frameHeight="666" />
+</TextureAtlas>
